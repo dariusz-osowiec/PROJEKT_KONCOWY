@@ -1,0 +1,38 @@
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ResolveAssemblyReference.cache
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form1.resources
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form2.resources
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Properties.Resources.resources
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.csproj.GenerateResource.Cache
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\bin\Debug\ProjektKoncowy.exe
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\bin\Debug\ProjektKoncowy.pdb
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.exe
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.pdb
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.exe
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.pdb
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ResolveAssemblyReference.cache
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form1.resources
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form2.resources
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Properties.Resources.resources
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.csproj.GenerateResource.Cache
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\bin\Debug\ProjektKoncowy.exe
+G:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\bin\Debug\ProjektKoncowy.pdb
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.exe
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.pdb
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\bin\Debug\ProjektKoncowy.exe
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\bin\Debug\ProjektKoncowy.pdb
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form1.resources
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form2.resources
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Properties.Resources.resources
+C:\Documents and Settings\Daryjusz\Pulpit\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.csproj.GenerateResource.Cache
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.exe
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.pdb
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ResolveAssemblyReference.cache
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form1.resources
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Form2.resources
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.Properties.Resources.resources
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.csproj.GenerateResource.Cache
+D:\PENDRIVE\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.exe
+D:\PENDRIVE\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.pdb
+D:\Szkoła\Studia\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.exe
+D:\Szkoła\Studia\331DAIRDZ\ProjektKoncowy\ProjektKoncowy\obj\Debug\ProjektKoncowy.pdb

@@ -1,0 +1,10 @@
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\bin\ProjektKoncowyWeb.dll
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\bin\ProjektKoncowyWeb.pdb
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\obj\Debug\ProjektKoncowyWeb.dll
+F:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\obj\Debug\ProjektKoncowyWeb.pdb
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\bin\ProjektKoncowyWeb.dll
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\bin\ProjektKoncowyWeb.pdb
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\obj\Debug\ProjektKoncowyWeb.dll
+D:\331DAIRDZ\ProjektKoncowy\ProjektKoncowyWeb\obj\Debug\ProjektKoncowyWeb.pdb
